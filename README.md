@@ -16,7 +16,7 @@ An end-to-end Data Analytics project using **Python, MySQL, and Power BI** to an
 - Visualized customer demographics, sales trends, and purchasing behavior
 
 ## Dashboard
-*Add your Power BI dashboard screenshot here.*
+
 
 ## Author
 
